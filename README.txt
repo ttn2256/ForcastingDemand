@@ -1,6 +1,1 @@
-Tuan Nguyen
-CS 5001
-Final project
-
-Step 1: install numpy, scipy, and matplotlib
-Step 2: run the program
+This project gets data to forecast future demand using Holt-Winters methods
